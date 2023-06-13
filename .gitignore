@@ -235,3 +235,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node,visualstudiocode
+
+# Archivos generados por Vite
+vite.config.ts.timestamp-*.mjs
